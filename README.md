@@ -9,6 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://sakshi-kulkarni-my-portfolio.netlify.app/](https://sakshi-kulkarni-my-portfolio.netlify.app/)
 
 - 📫 How to reach me **sakshikulkarni880@gmail.com**
+- ⚡ Fun fact **I think I am Funny XD**
 
 
 <h3 align="left">Connect with me:</h3>
